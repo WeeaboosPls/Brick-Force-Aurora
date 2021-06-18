@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/fThs88a.png)
 
+<p align="center">This repository has been relocated: https://github.com/Brick-Force-Aurora/Brick-Force</p>
+
 [<p align="center">Join The Discord</p>](https://discord.gg/qktjAYsKwH)
 [<p align="center">Latest Release</p>](https://github.com/WeeaboosPls/Brick-Force-Aurora/releases/latest)
 
